@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amaanulhoda
+- 👀 I’m interested in coding and exploring the tech world
+- 🌱 I’m currently learning python, web development 
+- 
